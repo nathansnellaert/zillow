@@ -1,0 +1,9 @@
+{
+  "last_updated": "2025-08-28T12:27:56.760201",
+  "row_count": 81312,
+  "_metadata": {
+    "updated_at": "2025-08-28T21:27:56.760263",
+    "run_id": "local-dev",
+    "connector": "zillow"
+  }
+}
